@@ -1,0 +1,12 @@
+SACSOFT Technologies website
+
+OPTION 1 (quickest): open the "dist" folder and double-click index.html. No install needed.
+
+OPTION 2 (to edit the code):
+  1. Install Node.js 18+ from nodejs.org
+  2. In this folder run:  npm install
+  3. Then run:           npm run dev      (opens http://localhost:3000)
+  4. To rebuild dist:    npm run build
+
+Do NOT open the root index.html directly. That is the development file and will show code.
+Edit company text, services and projects in src/data.js.
